@@ -8,8 +8,6 @@ This project investigates how large language models (LLMs) respond to politicall
 - Taxation & Wealth Redistribution
 - Policing & Criminal Justice Reform
 
-The study explores how prompt framing (neutral, partisan, or controversial wording) influences both ideological bias and emotional sentiment in model outputs.
-
 ## Methodology
 Prompt Design:
 Each topic was tested using three framing styles:
